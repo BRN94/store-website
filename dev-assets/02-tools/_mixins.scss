@@ -1,0 +1,17 @@
+// Medium (800px) + (responsive)
+
+@mixin medium-up {
+    @media (min-width: #{$bp-medium}) {
+        @content
+    }
+}
+
+// Large (1200px) + (responsive)
+
+@mixin large-up {
+    @media (min-width: #{$bp-large}) {
+        @content
+    }
+}
+
+
