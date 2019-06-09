@@ -521,6 +521,15 @@ a {
   .t-site-footer__copy-text {
     font-size: 0.75rem; }
 
+.t-product-list {
+  background-color: #F2F3F5; }
+  .t-product-list .c-product-selector {
+    margin-bottom: 50px;
+    margin-top: 50px; }
+  .t-product-list .c-pagination {
+    margin-bottom: 70px;
+    margin-top: 40px; }
+
 .u-bg-white {
   background-color: #FFFFFF; }
 
