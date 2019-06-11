@@ -632,6 +632,15 @@ a {
     padding: .7rem 1.75rem;
     margin-left: -2px; }
 
+.t-shopper-info {
+  padding-bottom: 70px;
+  padding-top: 60px; }
+  .t-shopper-info__item {
+    margin-bottom: 60px; }
+    @media (min-width: 1200px) {
+      .t-shopper-info__item {
+        margin-bottom: 0; } }
+
 .u-bg-white {
   background-color: #FFFFFF; }
 
